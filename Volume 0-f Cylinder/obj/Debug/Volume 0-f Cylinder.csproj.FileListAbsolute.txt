@@ -1,0 +1,10 @@
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\obj\Debug\Volume 0-f Cylinder.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\obj\Debug\Volume_0_f_Cylinder.Form1.resources
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\obj\Debug\Volume_0_f_Cylinder.Properties.Resources.resources
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\obj\Debug\Volume 0-f Cylinder.csproj.GenerateResource.cache
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\obj\Debug\Volume 0-f Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\bin\Debug\Volume 0-f Cylinder.exe.config
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\bin\Debug\Volume 0-f Cylinder.exe
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\bin\Debug\Volume 0-f Cylinder.pdb
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\obj\Debug\Volume 0-f Cylinder.exe
+C:\Users\Gulam\source\repos\Volume 0-f Cylinder\Volume 0-f Cylinder\obj\Debug\Volume 0-f Cylinder.pdb
