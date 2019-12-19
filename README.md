@@ -1,4 +1,18 @@
 # Volume-Of-Cylinder
-Project I did for college
 
-I made this project and I was learning about interfaces and attaching codes onto objects.
+### Description: 
+
+This project I did for college was about increeasing my knowledge in Windows Stnadard Form. The maing focus for this project was learning about interfaces and attaching codes onto objects.
+
+### What I learnt:
+- Better understanding Windows Standard Form
+- Interfaces
+- IF statements in C#
+
+### Constraints:
+
+None.
+
+### Improvements:
+
+None.
