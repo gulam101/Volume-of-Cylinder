@@ -1,4 +1,4 @@
-# Volume-Of-Cylinder
+# Volume-of-Cylinder
 
 ### Description: 
 
@@ -11,7 +11,7 @@ This project I did for college was about increasing my knowledge in Windows Stan
 User loads up the application and then they put in a base radius and height. This will then calculate the volume for the cylinder.
 
 ### What I learnt:
-- Better understanding Windows Standard Form
+- Better understanding of Windows Standard Form
 - Interfaces
 - IF statements in C#
 
