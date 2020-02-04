@@ -60,6 +60,8 @@ None.
 
 ### Resources:
 - https://docs.microsoft.com/en-us/dotnet/csharp/
+- Youtube (Quick Guides)
+- https://visualstudio.microsoft.com/
 
 ### Screenshots:
 ![IMG001](https://user-images.githubusercontent.com/45819118/71189266-71dec200-227a-11ea-9990-a67e220b4787.PNG)
