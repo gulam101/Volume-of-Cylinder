@@ -68,6 +68,7 @@ The focus for this project was learning about interfaces and attaching codes ont
 I did have a problem with not knowing how to use Visual Studio. Sometimes that application would crash because the College computers couldn't handle it and the toolbox would disappear at times. I did also have some other problems but that was technical issues to the PC (Because of old age) Because of this problem it did set back the time for the project back, but I managed to overcome this problem by using Google.
 
 ### Improvements:
+This is the improvement section. I order all improvements by an ID which I can refer back to at any time and I give a description of what that improvement should be.
 
 - Improvement ID:
 - Description: 
