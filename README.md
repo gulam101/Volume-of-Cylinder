@@ -49,7 +49,7 @@ The focus for this project was learning about interfaces and attaching codes ont
 - Step 2: Clone this project
 - Step 3: Once downloading is finished, open it up using Visual Studio
 - Step 4: Click run at the top and the application will run
-- Step 5: input a base radius and height
+- Step 5: Input a base radius and height
 - Step 6: Click calculate and this will then calculate the volume of the cylinder
 
 ### What I learnt:
