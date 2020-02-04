@@ -72,6 +72,9 @@ I did have a problem with not knowing how to use Visual Studio. Sometimes that a
 - Improvement ID:
 - Description: 
 
+### Development Changes:
+Development changes tracks the changes that happend to the project. It orders it by date and description.
+
 ### Resources:
 - https://docs.microsoft.com/en-us/dotnet/csharp/
 - Youtube (Quick Guides)
