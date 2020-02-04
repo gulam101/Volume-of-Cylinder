@@ -63,7 +63,8 @@ I did have a problem with not knowing how to use Visual Studio. Sometimes that a
 
 ### Improvements:
 
-None.
+- Improvement ID:
+- Description: 
 
 ### Resources:
 - https://docs.microsoft.com/en-us/dotnet/csharp/
