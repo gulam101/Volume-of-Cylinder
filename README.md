@@ -31,8 +31,6 @@
 [Credits](#Credits)  
 <a name="Credits"/>
 
-
-
 ### Description: 
 
 This project I did for college was about increasing my knowledge in Windows Standard Form. The focus for this project was learning about interfaces and attaching codes onto objects.
