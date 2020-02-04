@@ -42,8 +42,12 @@ This project I did for college was about increasing my knowledge in Windows Stan
 - Windows 10 (OS)
 
 ### Instructions:
-
-User loads up the application and then they put in a base radius and height. This will then calculate the volume for the cylinder.
+- Step 1: Download Visual Studio (If you don't have already)
+- Step 2: Clone this project
+- Step 3: Once downloading is finished, open it up using Visual Studio
+- Step 4: Click run at the top and the application will run
+- Step 5: input a base radius and height
+- Step 6: Click calculate and this will then calculate the volume of the cylinder
 
 ### What I learnt:
 - Better understanding of Windows Standard Form
